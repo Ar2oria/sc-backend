@@ -13,7 +13,7 @@
     <module>server</module>
   </modules>
 
-  <name>sc-backend</name>
+  <name>parent</name>
   <url>http://maven.apache.org</url>
 
   <properties>
